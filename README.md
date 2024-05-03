@@ -1,3 +1,5 @@
+# Data Structures and Algorithms
+
 This repository consists of many data structure and algorithms tasks such as
 
 * Dynamic programming problems
